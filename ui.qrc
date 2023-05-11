@@ -1,0 +1,74 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/800x480/icon_4g_black.png</file>
+        <file>images/800x480/icon_4g_white.png</file> 
+        <file>images/800x480/icon_ble_black.png</file> 
+        <file>images/800x480/icon_ble_white.png</file> 
+        <file>images/800x480/icon_temp_white.png</file> 
+		<file>images/800x480/icon_map_white.png</file>
+        <file>images/800x480/action_bar.png</file>        
+        <file>images/800x480/bg_white.png</file>
+        <file>images/800x480/bg_red.png</file>
+        <file>images/800x480/bg_blue.png</file>    
+        <file>images/800x480/blend.png</file>
+        <file>images/800x480/blend_copy.png</file>     
+        <file>images/800x480/settings.png</file>     
+        <file>images/800x480/right_indicator.png</file>
+        <file>images/800x480/left_indicator.png</file> 
+        <file>images/800x480/speedometer.png</file>
+        <file>images/800x480/needle.png</file>   
+        <file>images/800x480/dig_circle.png</file>        
+        <file>images/800x480/path_2.png</file>
+        <file>images/800x480/path_3.png</file>                
+        <file>images/800x480/dtebase.png</file>
+        <file>images/800x480/odobase.png</file>        
+        <file>images/800x480/tripbase.png</file> 
+        <file>images/800x480/odobase_blue.png</file>        
+        <file>images/800x480/tripbase_blue.png</file>          
+	<file>images/800x480/logo_optm.png</file>    
+	<file>images/800x480/logo1x_optm.png</file>  
+	<file>images/800x480/logo2x_optm.png</file>  
+	<file>images/800x480/logo_uno.png</file>    
+	<file>images/800x480/logo1x_uno.png</file>  
+	<file>images/800x480/logo_cretera.png</file>    
+	<file>images/800x480/logo1x_cretera.png</file>  
+	<file>images/800x480/logo2x_cretera.png</file>  		
+        <file>images/800x480/maximize.png</file>        
+        <file>images/800x480/minimize.png</file>
+        <file>images/800x480/left.png</file>
+        <file>images/800x480/left_select.png</file>        
+        <file>images/800x480/left_curve.png</file>               
+        <file>images/800x480/left_circle.png</file>
+        <file>images/800x480/left_uturn.png</file> 
+        <file>images/800x480/left_round.png</file>               
+        <file>images/800x480/left_sharp.png</file>
+        <file>images/800x480/left_diagonal.png</file> 
+        <file>images/800x480/right.png</file>
+        <file>images/800x480/right_select.png</file>        
+        <file>images/800x480/right_curve.png</file>               
+        <file>images/800x480/right_circle.png</file>
+        <file>images/800x480/right_uturn.png</file> 
+        <file>images/800x480/right_round.png</file>               
+        <file>images/800x480/right_sharp.png</file>
+        <file>images/800x480/right_diagonal.png</file>         
+		<file>images/800x480/straight.png</file>
+		<file>images/800x480/destination.png</file> 
+		<file>images/800x480/close.png</file> 
+		<file>images/800x480/location.png</file> 
+        <file>images/800x480/callBg.png</file>        
+        <file>images/800x480/accept.png</file>        
+        <file>images/800x480/decline.png</file>  
+
+      
+        				
+    </qresource>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/HmiParams.js</file>        
+        <file>qml/MainUi.qml</file>
+        <file>qml/LogoPage.qml</file>
+        <file>qml/SettingPage.qml</file>                 
+        <file>qml/ProgressCircle.qml</file>
+        <file>qml/CallDialog.qml</file>	
+    </qresource>    
+</RCC>
